@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680860986500",
+    "project_id": "chatapp-d2ba0",
+    "storage_bucket": "chatapp-d2ba0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680860986500:android:2bd36d564969a0380026d1",
+        "android_client_info": {
+          "package_name": "com.mohit.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyButbtncsLJf6wWoT7gA91V_-MQiWGoqbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
